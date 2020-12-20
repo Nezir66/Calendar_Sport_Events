@@ -6,3 +6,14 @@ Technologies:
 - Vue.js/Nuxt.js  
 - Java  
 - MySQL  
+
+Functionalities:  
+- adding new Events  
+- basic calendar funcionalities
+
+Possible functionalities:  
+-  deleting events  
+-  creating a user  
+-  user can create new calendars  
+-  sharing events between users  
+-  sharing calendars between users
